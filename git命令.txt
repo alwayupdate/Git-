@@ -1,0 +1,8 @@
+git init                            创建仓库
+git status                        查看仓库状态
+git add                           添加到缓存区       git add 文件名/git add 文件名1 文件名2/git add .
+git commit -m "注释"     提交文件
+git log                            查看日志
+git log --pretty=oneline 查看日志
+git reset --hard 编号       版本回退
+git reflog                        查看历史记录        
